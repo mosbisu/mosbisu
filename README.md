@@ -4,7 +4,8 @@
 <div align=center>
 <!--소개-->
 <h3>:raised_hands: Introduction </h3>
-안녕하세요! 프론트엔드 개발자입니다. :relaxed:
+
+안녕하세요! 프론트엔드 개발자입니다 :relaxed:
 <br/><br/>
  <!--기술스택-->
   <h3>:four_leaf_clover:Skills </h3>
