@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vscode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
   <br/><br />
+  <hr />
   <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=mosbisu">
   <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosbisu&layout=compact">
 </div>
