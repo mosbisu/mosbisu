@@ -3,10 +3,10 @@
 
 <div align=center>
 <!--소개-->
-<!-- <h3>:raised_hands: Introduction </h3>
+<h3>:raised_hands: Introduction </h3>
 
 안녕하세요! 프론트엔드 개발자입니다 :relaxed:
-<br/><br/> -->
+<br/><br/>
  <!--기술스택-->
   <h3>:four_leaf_clover:Skills </h3>
   <!--프론트-->
@@ -24,8 +24,5 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vscode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-  <br/><br />
-  <hr />
-  <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=mosbisu">
-  <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosbisu&layout=compact">
+  <br/>
 </div>
