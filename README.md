@@ -8,7 +8,7 @@
 안녕하세요! 프론트엔드 개발자입니다 :relaxed:
 <br/><br/>
  <!--기술스택-->
-  <h3>:four_leaf_clover:Skills </h3>
+  <h3>:four_leaf_clover: Skills </h3>
   <!--프론트-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
